@@ -12,17 +12,17 @@ Once the player reaches the target, a built-in mini-game (similar to Snake 🐍)
 
 ## 🚀 运行方式 How to Run
 
-1. 下载本仓库（或通过 git clone 克隆）。
+下载本仓库（或通过 git clone 克隆）。
 Download this repository (or clone via git clone).
 
-2. 使用 IntelliJ IDEA 打开，运行 core.Main。
+使用 IntelliJ IDEA 打开，运行 core.Main。
 Open with IntelliJ IDEA and run core.Main.
 
 或者在命令行下运行：
 Or run in the command line:
 
-bash javac -d out src/core/Main.java java -cp out core.Main
-
+javac -d out src/core/Main.java  
+java -cp out core.Main  
 
 ## 🎥 演示视频 demo gameplay
 
