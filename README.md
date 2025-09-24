@@ -21,8 +21,7 @@ Open with IntelliJ IDEA and run core.Main.
 或者在命令行下运行：
 Or run in the command line:
 
-javac -d out src/core/Main.java
-java -cp out core.Main
+bash javac -d out src/core/Main.java java -cp out core.Main
 
 
 ## 🎥 演示视频 demo gameplay
