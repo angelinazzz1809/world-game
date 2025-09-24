@@ -24,13 +24,14 @@ Or run in the command line:
 javac -d out src/core/Main.java
 java -cp out core.Main
 
+
 ## 🎥 演示视频 demo gameplay
 
 👉 [点击这里查看游戏演示](https://drive.google.com/file/d/1MCrxlnxZtuQAAgZXc8sL-VQJfJ2vf5Gk/view?usp=sharing) Click here to watch the gameplay demo
 
-🎮 游戏玩法 How to Play
 
-🎮 游戏玩法 How to Play
+
+## 🎮 游戏玩法 How to Play
 🌍 主地图 Main Map
 
 输入 seed → 随机生成迷宫地图
